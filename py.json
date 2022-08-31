@@ -17,7 +17,16 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://huxuanping.github.io/bm/plugin/py_czspp.py"
-	}, {
+	},  {
+		"key": "py_dy555",
+		"name": "555",
+		"type": 3,
+		"api": "py_dy555",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://huxuanping.github.io/bm/plugin/py_dy555.py"
+	},{
 		"key": "py_zxzj",
 		"name": "在线之家",
 		"type": 3,
